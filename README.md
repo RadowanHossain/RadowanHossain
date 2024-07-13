@@ -2,7 +2,7 @@
 <h3 align="center">A tech enthuasist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radowanhossain&label=Profile%20views&color=0e75b6&style=flat" alt="radowanhossain" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently **studying in Electrical & Electronic Engineering**
 
 - About myself **Tech and research enthusiast committed to hard work and diligence. Consistently strives to deliver the best results in every work. Passionate about leveraging technology and conducting innovative research to drive progress and excellence.**
